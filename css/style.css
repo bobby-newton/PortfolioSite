@@ -1,0 +1,30 @@
+header {
+  margin-top: 30px;
+}
+
+.weightline {
+  border-width: 8px;
+  border-color: #d4af37;
+}
+
+.logo-main {
+  margin-top: 20px;
+}
+
+.title-size {
+  font-size: 50px;
+  text-shadow: grey 1px 0 10px;
+  color: red;
+}
+
+.job-title {
+  text-shadow: grey 1px 0 10px;
+}
+
+.shade-text {
+  color: #7d97ad;
+}
+
+.foot-text {
+  text-align: center;
+}
